@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+}
+.container-fluid{
+    padding: 20px;
+}
+
+.logout{
+    margin-right: 10px;
+}
+.success{
+    background-color: lightgreen;
+}
+
+.error{
+    background-color: lightcoral;
+}
+.messages{
+    text-align: center;
+}

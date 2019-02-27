@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding:0;
+}
+.container{
+    padding: 20px;
+}
+.success{
+    background-color: lightgreen;
+}
+
+.error{
+    background-color: lightcoral;
+}
+.messages{
+    text-align: center;
+}
